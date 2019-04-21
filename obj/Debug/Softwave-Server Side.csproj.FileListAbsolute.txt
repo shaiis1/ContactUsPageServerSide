@@ -1,0 +1,70 @@
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Softwave-Server Side.dll.config
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Softwave-Server Side.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Softwave-Server Side.pdb
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csc.exe
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csc.exe.config
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csc.rsp
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csi.exe
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csi.exe.config
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\csi.rsp
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.AppContext.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Console.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\vbc.exe
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\vbc.exe.config
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\vbc.rsp
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\MySql.Data.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Newtonsoft.Json.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Net.Http.Formatting.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.WebHost.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Google.Protobuf.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\MySql.Data.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Newtonsoft.Json.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Net.Http.Formatting.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.WebHost.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csprojAssemblyReference.cache
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csproj.CoreCompileInputs.cache
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csproj.CopyComplete
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.pdb
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Cors.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.Cors.dll
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.Cors.xml
