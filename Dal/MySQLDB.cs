@@ -28,12 +28,16 @@ namespace Softwave_Server_Side.Dal
         #region Public Methods
         public void CreateEntity(MessageDetails entity)
         {
-            string query = string.Format("INSERT INTO {0} (email, phoneNumber, subject, content) VALUES(\"{1}\", \"{2}\", \"{3}\", \"{4}\")", m_tableName, entity.m_email, entity.m_phoneNumber, entity.m_subject, entity.m_content);
+            string query = string.Format("INSERT INTO {0} (email, phoneNumber, subject, content) VALUES(?Email, ?Phone, ?Subject, ?Content)",m_tableName);
 
             if (IsConnect() == true)
             {
                 
                 MySqlCommand cmd = new MySqlCommand(query, Connection);
+                cmd.Parameters.Add("?Email",MySqlDbType.VarChar).Value = entity.m_email;
+                cmd.Parameters.Add("?Phone", MySqlDbType.VarChar).Value = entity.m_phoneNumber;
+                cmd.Parameters.Add("?Subject", MySqlDbType.VarChar).Value = entity.m_subject;
+                cmd.Parameters.Add("?Content", MySqlDbType.VarChar).Value = entity.m_content;
                 cmd.ExecuteNonQuery();
                 
             }

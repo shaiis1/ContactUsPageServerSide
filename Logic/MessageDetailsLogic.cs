@@ -22,8 +22,8 @@ namespace Softwave_Server_Side.Logic
         #region Public Methods
         public void CreateMessageDetail(MessageDetails i_details)
         {
-            //if (!IsValidFields(i_details))
-            //    throw new ArgumentException("Arguments are not valid.");
+            if (!IsValidFields(i_details))
+                throw new ArgumentException("Arguments are not valid.");
 
             using (IDatabse<MessageDetails> database = DatabaseFactory.GetDatabase(m_configurations))
             {
@@ -40,27 +40,13 @@ namespace Softwave_Server_Side.Logic
                 || string.IsNullOrEmpty(i_details.m_phoneNumber)
                 || string.IsNullOrEmpty(i_details.m_subject)
                 || string.IsNullOrEmpty(i_details.m_content)
-                || !Regex.Match(i_details.m_phoneNumber.ToString(), @"^(\+[0-9])$").Success
-                || !IsValidEmail(i_details.m_email))
-            {
+                || !Regex.Match(i_details.m_phoneNumber, RegexStrings.GetphoneNumberRegex).Success
+                || !Regex.Match(i_details.m_email, RegexStrings.GetEmailRegex).Success) { 
                 return false;
             }
             else
             {
                 return true;
-            }
-        }
-
-        private bool IsValidEmail(string email)
-        {
-            try
-            {
-                new MailAddress(email);
-                return true;
-            }
-            catch (FormatException)
-            {
-                return false;
             }
         }
         #endregion
