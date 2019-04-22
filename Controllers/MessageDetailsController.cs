@@ -4,6 +4,7 @@ using System.Configuration;
 using Softwave_Server_Side.Logic;
 using Softwave_Server_Side.Enums;
 using Softwave_Server_Side.Models;
+using Softwave_Server_Side.Interfaces;
 
 namespace Softwave_Server_Side.Controllers
 {
@@ -16,7 +17,7 @@ namespace Softwave_Server_Side.Controllers
             try
             {
                 ControllerConfigs configurations = GetDatabaseTypeFromConfigs();
-                MessageDetailsLogic messageDetailsLogic = new MessageDetailsLogic(configurations);
+                IMessageDetailsLogic messageDetailsLogic = new MessageDetailsLogic(configurations);
 
                 messageDetailsLogic.CreateMessageDetail(i_details);
                 return Ok();

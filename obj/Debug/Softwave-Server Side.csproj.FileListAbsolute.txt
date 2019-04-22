@@ -60,7 +60,6 @@ C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.xml
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.WebHost.xml
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csprojAssemblyReference.cache
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csproj.CoreCompileInputs.cache
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csproj.CopyComplete
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.dll
@@ -68,3 +67,4 @@ C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\S
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Cors.dll
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.Cors.dll
 C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\bin\System.Web.Http.Cors.xml
+C:\Users\Shai\source\repos\Softwave-Server Side\Softwave-Server Side\obj\Debug\Softwave-Server Side.csprojAssemblyReference.cache

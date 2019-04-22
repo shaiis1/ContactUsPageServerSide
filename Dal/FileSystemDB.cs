@@ -1,5 +1,6 @@
 ﻿using System;
 using Softwave_Server_Side.Models;
+using Softwave_Server_Side.Interfaces;
 
 namespace Softwave_Server_Side.Dal
 {

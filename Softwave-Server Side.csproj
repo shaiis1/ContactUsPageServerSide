@@ -99,10 +99,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Logic\DatabaseFactory.cs" />
+    <Compile Include="Interfaces\IMessageDetailsLogic.cs" />
     <Compile Include="Logic\MessageDetailsLogic.cs" />
-    <Compile Include="Logic\RegexStrings.cs" />
     <Compile Include="Models\ControllerConfigs.cs" />
-    <Compile Include="Models\IDatabse.cs" />
+    <Compile Include="Interfaces\IDatabse.cs" />
     <Compile Include="Models\MessageDetails.cs" />
     <Compile Include="Dal\MySQLDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

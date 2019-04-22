@@ -1,6 +1,7 @@
 ﻿using Softwave_Server_Side.Dal;
 using Softwave_Server_Side.Enums;
 using Softwave_Server_Side.Models;
+using Softwave_Server_Side.Interfaces;
 
 namespace Softwave_Server_Side.Logic
 {

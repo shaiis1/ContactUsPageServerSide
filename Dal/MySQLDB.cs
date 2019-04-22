@@ -1,5 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 using Softwave_Server_Side.Models;
+using Softwave_Server_Side.Interfaces;
 
 namespace Softwave_Server_Side.Dal
 {
@@ -8,7 +9,6 @@ namespace Softwave_Server_Side.Dal
         #region Members
         private string m_connectionString = string.Empty;
         private string m_tableName = "messagedetails";
-        private long id ;
 
         public MySqlConnection Connection { get; private set; }
         #endregion
@@ -28,18 +28,16 @@ namespace Softwave_Server_Side.Dal
         #region Public Methods
         public void CreateEntity(MessageDetails entity)
         {
-            string query = string.Format("INSERT INTO {0} (email, phoneNumber, subject, content) VALUES(?Email, ?Phone, ?Subject, ?Content)",m_tableName);
+            string query = string.Format("INSERT INTO {0} (email, phoneNumber, subject, content) VALUES(?Email, ?Phone, ?Subject, ?Content)", m_tableName);
 
             if (IsConnect() == true)
             {
-                
                 MySqlCommand cmd = new MySqlCommand(query, Connection);
-                cmd.Parameters.Add("?Email",MySqlDbType.VarChar).Value = entity.m_email;
+                cmd.Parameters.Add("?Email", MySqlDbType.VarChar).Value = entity.m_email;
                 cmd.Parameters.Add("?Phone", MySqlDbType.VarChar).Value = entity.m_phoneNumber;
                 cmd.Parameters.Add("?Subject", MySqlDbType.VarChar).Value = entity.m_subject;
                 cmd.Parameters.Add("?Content", MySqlDbType.VarChar).Value = entity.m_content;
                 cmd.ExecuteNonQuery();
-                
             }
         }
 
